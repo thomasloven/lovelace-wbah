@@ -45,10 +45,10 @@ Lovelace WBAH adds the shortcut shift+Enter for toggling the top entity on or of
 
 Lovelace WBAH adds the following commands to the quick launch menu (opened by pressing `c` on your keyboard):
 
-|                 |                             |
-| --------------- | --------------------------- |
-| `GUI Edit mode` | Same as calling `editMode() |
-| `RTL mode`      | Same as calling `rtl()`     |
+|                 |                              |
+| --------------- | ---------------------------- |
+| `GUI Edit mode` | Same as calling `editMode()` |
+| `RTL mode`      | Same as calling `rtl()`      |
 
 All commands can be found by searching for "WBAH" in the quick launch menu.
 
