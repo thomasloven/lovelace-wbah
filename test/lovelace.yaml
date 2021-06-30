@@ -1,0 +1,9 @@
+title: Lovelace-wbah
+views:
+  - title: Default
+    cards:
+      - type: entities
+        entities:
+          - light.bed_light
+          - light.ceiling_lights
+          - light.kitchen_lights

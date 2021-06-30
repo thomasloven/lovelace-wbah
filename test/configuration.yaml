@@ -1,0 +1,22 @@
+default_config:
+
+demo:
+
+frontend:
+  extra_module_url:
+    - /local/workspace/wbah.js
+
+lovelace:
+  mode: storage
+  dashboards:
+    lovelace-yaml:
+      mode: yaml
+      title: yaml
+      filename: test/lovelace.yaml
+
+script:
+  log_message:
+    sequence:
+      - service: system_log.write
+        data:
+          message: Script was called
